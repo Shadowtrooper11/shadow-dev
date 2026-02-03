@@ -9,6 +9,14 @@
     "contact": "連絡先"
   },
   "NavFooter": {
-    "text": "© 2026 Shadowhex Development. All rights reserved."
+    "text": "© 2026 Shadowhex. 無断転載を禁じます。"
+  },
+  "About": {
+    "title": "私について",
+    "description": "私のアプリケーションの「私について」ページへようこそ。"
+  },
+  "Contact": {
+    "title": "お問い合わせ",
+    "description": "私のアプリケーションの「お問い合わせ」ページへようこそ。"
   }
 }

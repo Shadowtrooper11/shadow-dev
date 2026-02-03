@@ -10,5 +10,13 @@
   },
   "NavFooter": {
     "text": "© 2026 Shadowhex Development. All rights reserved."
+  },
+  "About": {
+    "title": "About Us",
+    "description": "Welcome to the About page of our application."
+  },
+  "Contact": {
+    "title": "Contact Us",
+    "description": "Welcome to the Contact page of our application."
   }
 }

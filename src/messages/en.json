@@ -1,0 +1,14 @@
+{
+  "Home": {
+    "title": "Shadowhex Development",
+    "subtitle": "Building high quality web solutions and games."
+  },
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "NavFooter": {
+    "text": "© 2026 Shadowhex Development. All rights reserved."
+  }
+}

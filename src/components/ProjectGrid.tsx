@@ -5,7 +5,7 @@ export default function ProjectGrid() {
     return (
         <div className="grid grid-cols-1 md:grid-cols-2 justify-items-center mt-2">
             {projectData.map((project) => (
-              <div key={project.id} className="bg-gray-900 border-2 border-gray-500/30 rounded-lg p-2 max-sm:mb-4 w-lg">
+              <div key={project.id} className="bg-gray-900 border-2 border-gray-500/30 rounded-lg p-2 max-sm:mb-4 max-sm:w-full w-lg">
                     <div className="flex items-center">
                         <img src={project.imageUrl} alt={project.title} className="size-16 rounded-lg mr-2" />
                         <h4 className="text-2xl font-semibold">{project.title}</h4>

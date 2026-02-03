@@ -85,7 +85,7 @@ export default function Navbar() {
                                         key={link.path}
                                         href={link.path}
                                         onClick={() => setMobileMenuOpen(false)}
-                                        className={cn("flex items-center hover:text-blue-400 transition duration-300 gap-1 bg-zinc-900 p-4 border-b border-zinc-700/90", 
+                                        className={cn("flex items-center hover:text-blue-400 transition duration-300 gap-1 bg-zinc-900 p-6 border-b-2 border-zinc-700/90", 
                                             isActive ? "text-blue-400" : "text-gray-300"    
                                         )}
                                     >

@@ -25,6 +25,7 @@
     "description": "私のアプリケーションの「お問い合わせ」ページへようこそ。"
   },
   "Project": {
+    "visitSite": "サイトを訪問",
     "hexlite": {
       "title": "Hexlite Studiosのウェブサイト",
       "description": "Hexlite Studiosの公式ウェブサイト。"

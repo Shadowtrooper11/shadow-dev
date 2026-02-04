@@ -25,6 +25,7 @@
     "description": "Welcome to the Contact page of our application."
   },
   "Project": {
+    "visitSite": "Visit Site",
     "hexlite": {
       "title": "Hexlite Studios Website",
       "description": "Official website for Hexlite Studios."

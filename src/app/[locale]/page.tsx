@@ -14,7 +14,7 @@ export default function Home() {
             <span className="text-gray-400">{t('title')}</span><span className="text-yellow-600">{t('titlep2')}</span><span className="text-gray-200">{t('titlep3')}</span>
           </h1>
           <div>
-            <p className="text-xl mb-6 p-2 bg-white/5 border border-white/20 inline-block rounded-lg max-w-3xl">
+            <p className="text-xl mb-6 p-2 bg-white/5 border border-white/20 inline-block rounded-lg max-w-3xl max-sm:m-2">
               {t('introText')}
             </p>
           </div>

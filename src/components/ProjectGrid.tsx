@@ -25,7 +25,7 @@ export default function ProjectGrid() {
                             </span>
                         ))}
                         <a href={project.link} target="_blank" rel="noopener noreferrer" className="ml-auto text-zinc-300 hover:text-white mt-2 flex items-center">
-                           Visit Site <ArrowRight />
+                           {t('visitSite')} <ArrowRight />
                         </a>
                     </div>
               </div>

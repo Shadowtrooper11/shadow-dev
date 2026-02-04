@@ -1,8 +1,12 @@
 {
   "Home": {
-    "title": "Shadowhex Development",
+    "title": "Shadow",
+    "titlep2": "Hex",
+    "titlep3": " Development",
     "subtitle": "Building high quality web solutions and games.",
-    "projects": "Projects"
+    "projects": "Projects",
+    "introText": "Welcome to ShadowHex Development. I'm a full-stack developer and game designer who transforms ideas into polished digital experiences. From business websites to game UI/UX, I leverage modern web technologies to create solutions that engage and perform. Let's discuss your project.",
+    "startProject": "Start your Project"
   },
   "Navbar": {
     "home": "Home",
@@ -10,7 +14,7 @@
     "contact": "Contact"
   },
   "NavFooter": {
-    "text": "© 2026 Shadowhex Development. All rights reserved."
+    "text": "© 2026 ShadowHex Development. All rights reserved. | Background img from freepik"
   },
   "About": {
     "title": "About Us",
@@ -19,5 +23,15 @@
   "Contact": {
     "title": "Contact Us",
     "description": "Welcome to the Contact page of our application."
+  },
+  "Project": {
+    "hexlite": {
+      "title": "Hexlite Studios Website",
+      "description": "Official website for Hexlite Studios."
+    },
+    "chrisproductions": {
+      "title": "Chris Productions Website",
+      "description": "Official website for Chris Productions."
+    }
   }
 }

@@ -1,8 +1,12 @@
 {
   "Home": {
-    "title": "Shadowhex Development",
-    "subtitle": "Building 高品質なウェブソリューションとゲームを提供しています。",
-    "projects": "プロジェクト"
+    "title": "Shadow",
+    "titlep2": "Hex",
+    "titlep3": " 開発",
+    "subtitle": "高品質なウェブソリューションとゲームを構築しています。",
+    "projects": "プロジェクト",
+    "introText": "ShadowHex 開発へようこそ。私はアイデアを洗練されたデジタル体験に変えるフルスタック開発者兼ゲームデザイナーです。ビジネスウェブサイトからゲームのUI/UXまで、最新のウェブ技術を活用して、魅力的で高性能なソリューションを作成します。あなたのプロジェクトについて話し合いましょう。",
+    "startProject": "プロジェクトを始める"
   },
   "Navbar": {
     "home": "ホーム",
@@ -10,7 +14,7 @@
     "contact": "連絡先"
   },
   "NavFooter": {
-    "text": "© 2026 Shadowhex. 無断転載を禁じます。"
+    "text": "© 2026 ShadowHex 開発. 無断転載を禁じます | 背景画像はfreepikから提供されています"
   },
   "About": {
     "title": "私について",
@@ -19,5 +23,15 @@
   "Contact": {
     "title": "お問い合わせ",
     "description": "私のアプリケーションの「お問い合わせ」ページへようこそ。"
+  },
+  "Project": {
+    "hexlite": {
+      "title": "Hexlite Studiosのウェブサイト",
+      "description": "Hexlite Studiosの公式ウェブサイト。"
+    },
+    "chrisproductions": {
+      "title": "Chris Productionsのウェブサイト",
+      "description": "Chris Productionsの公式ウェブサイト。"
+    }
   }
 }

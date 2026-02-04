@@ -32,11 +32,13 @@ export default function Navbar() {
                 href="/" 
                 className="flex items-center gap-2 p-5 hover:text-white transition duration-300">
                 <img src="/shadowhexlogo.svg" alt="Shadow Logo" className="size-12 md:size-16" />
-                <span className="font-bold text-xl md:text-2xl">ShadowHex</span>
+                <p>
+                    <span className="font-bold text-xl md:text-2xl text-gray-400">Shadow</span><span className="font-bold text-xl md:text-2xl text-yellow-600">Hex</span>
+                </p>
             </Link>
             {/* Desktop Navigation */}
             <nav className="hidden md:flex">
-                <div className={cn("absolute top-0 left-1/2 -translate-x-1/2 flex gap-6 bg-zinc-900/95 p-6.5", 
+                <div className={cn("absolute top-0 left-1/2 -translate-x-1/2 flex gap-6 bg-zinc-900/95 p-6", 
                                     "border-x-2 border-zinc-700/90 border-b-2 ring ring-zinc-700 rounded-b-lg")}>
                     {navLinks.map((link) => {
                         const isActive = link.path === '/' 

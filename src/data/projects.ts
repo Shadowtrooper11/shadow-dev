@@ -17,7 +17,7 @@ export const projectData: Project[] = [
   {
     id: 2,
     slug: "chrisproductions",
-    link: "https://musician-sitev2-production.up.railway.app/",
+    link: "https://chrisproductions.net",
     imageUrl: "https://chrisproductions-production.up.railway.app/hero.png",
     tags: ["React", "TypeScript", "Tailwind CSS"]
   }

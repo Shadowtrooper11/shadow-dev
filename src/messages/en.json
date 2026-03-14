@@ -18,11 +18,20 @@
   },
   "About": {
     "title": "About Us",
-    "description": "Welcome to the About page of our application."
+    "description": "Welcome to the About page."
   },
   "Contact": {
     "title": "Contact Us",
-    "description": "Welcome to the Contact page of our application."
+    "description": "Welcome to the Contact page. Still under construction!",
+    "nameLabel": "Name:",
+    "namePlaceholder": "Bob Smith",
+    "emailLabel": "Email:",
+    "emailPlaceholder": "example@example.com",
+    "phoneLabel": "Phone:",
+    "phonePlaceholder": "123-456-7890",
+    "messageLabel": "Message:",
+    "messagePlaceholder": "How can I assist you?",
+    "submitButton": "Submit"
   },
   "Project": {
     "visitSite": "Visit Site",
